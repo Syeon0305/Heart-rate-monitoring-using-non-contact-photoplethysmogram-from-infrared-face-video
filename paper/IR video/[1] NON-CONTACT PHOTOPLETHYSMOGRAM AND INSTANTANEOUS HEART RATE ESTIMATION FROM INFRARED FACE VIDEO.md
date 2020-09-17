@@ -34,12 +34,6 @@
     
 -   Estimation of the instantaneous heart rate
     
--   제안 된 프레임 워크를 5 개의 주요 안면 영역에 포함 된 채널에 독립적으로 적용한 결과 -> 얼굴 전체를 이용한 것이 최상의 결과 나옴
-    
-    [##_Image|kage@mPPVJ/btqHp6SuS09/tvqo9KDoi8zV8eMl54kGGk/img.jpg|alignCenter|width="100%" data-origin-width="478" data-origin-height="359" data-ke-mobilestyle="widthContent"|||_##]
-
--   비접촉과 접촉의 PPG의 짧은 시간 세그먼트 비교한 결과  
-    [##_Image|kage@mis1h/btqHjWQUUHR/cSa4jxK115JDoqqNYFF1O0/img.jpg|alignCenter|width="100%" data-origin-width="581" data-origin-height="436" data-ke-mobilestyle="widthContent"|||_##]
 
 ## Experiments
 
@@ -53,9 +47,7 @@
 ## Results
 
 -   각 데이터 세트에 대해 복구 된 iHR 신호 및 Ground Truth 간의 RMWSE(root mean square error) 및 상대 오차 계산
-
 -   복구 된 비접촉 PPG (PPGIR) 및 해당 STFT 표시, 스펙트로 그램은 복구 된 IR iHR과 Ground Truth iHR 사이에 좋은 일치  
-    [##_Image|kage@bHWWVo/btqHemP5W8s/6sr3UTV3u9y7eUfSKDWfOk/img.jpg|alignCenter|width="100%" data-origin-width="555" data-origin-height="389" data-ke-mobilestyle="widthContent"|||_##]
 
 ## Results
 
