@@ -1,9 +1,7 @@
 # Heart-rate-monitoring-using-non-contact-photoplethysmogram-from-infrared-face-video
 
 ## 요약
-- 적외선 안면 비디오를 통해서 rPPG를 추출해 심박수 모니터링을 할 수 있도록 심박(심박변이도) 추정
-
-
+- 적외선 안면 비디오를 통해서 rPPG를 추출해 심박수 모니터링을 할 수 있도록 심박(심박변이도) 추정<br/>
 - RGB 카메라가 아닌 IR 카메라로 찍은 비디오를 이용
 - remote PPG(rPPG : 비접촉 PPG) 를 추출해 heart rate 추정
 
